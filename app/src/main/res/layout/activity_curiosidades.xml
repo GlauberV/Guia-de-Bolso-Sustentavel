@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+<ListView xmlns:android="http://schemas.android.com/apk/res/android"
     android:id="@+id/curiosidades_root"
     xmlns:tools="http://schemas.android.com/tools"
     android:layout_width="match_parent"
@@ -8,85 +8,4 @@
     android:orientation="vertical"
     tools:context="com.androidaccelarate.guiadebolsosustentavel.CuriosidadesActivity">
 
-    <TextView
-        android:id="@+id/curiosidade1"
-        android:layout_width="match_parent"
-        android:layout_height="wrap_content"
-
-        android:layout_marginTop="5dp"
-        android:layout_marginLeft="5dp"
-        android:layout_marginRight="5dp"
-        android:layout_marginBottom="0dp"
-
-        android:background="@color/backGroundColor"
-        android:gravity="start"
-        android:padding="10dp"
-        android:text="@string/curiosidadesText1"
-        android:textColor="@color/textColor" />
-
-    <TextView
-        android:id="@+id/curiosidade2"
-        android:layout_width="match_parent"
-        android:layout_height="wrap_content"
-
-        android:layout_marginTop="5dp"
-        android:layout_marginLeft="5dp"
-        android:layout_marginRight="5dp"
-        android:layout_marginBottom="0dp"
-
-        android:background="@color/backGroundColor"
-        android:gravity="start"
-        android:padding="10dp"
-        android:text="@string/curiosidadesText2"
-        android:textColor="@color/textColor" />
-
-    <TextView
-        android:id="@+id/curiosidade3"
-        android:layout_width="match_parent"
-        android:layout_height="wrap_content"
-
-        android:layout_marginTop="5dp"
-        android:layout_marginLeft="5dp"
-        android:layout_marginRight="5dp"
-        android:layout_marginBottom="0dp"
-
-        android:background="@color/backGroundColor"
-        android:gravity="start"
-        android:padding="10dp"
-        android:text="@string/curiosidadesText3"
-        android:textColor="@color/textColor" />
-
-    <TextView
-        android:id="@+id/curiosidade4"
-        android:layout_width="match_parent"
-        android:layout_height="wrap_content"
-
-        android:layout_marginTop="5dp"
-        android:layout_marginLeft="5dp"
-        android:layout_marginRight="5dp"
-        android:layout_marginBottom="0dp"
-
-        android:background="@color/backGroundColor"
-        android:gravity="start"
-        android:padding="10dp"
-        android:text="@string/curiosidadesText4"
-        android:textColor="@color/textColor" />
-
-    <TextView
-        android:id="@+id/curiosidade5"
-        android:layout_width="match_parent"
-        android:layout_height="wrap_content"
-
-        android:layout_marginTop="5dp"
-        android:layout_marginLeft="5dp"
-        android:layout_marginRight="5dp"
-        android:layout_marginBottom="0dp"
-
-        android:background="@color/backGroundColor"
-        android:gravity="start"
-        android:padding="10dp"
-        android:text="@string/curiosidadesText5"
-        android:textColor="@color/textColor" />
-
-
-</LinearLayout>
+</ListView>

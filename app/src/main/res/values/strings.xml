@@ -25,4 +25,13 @@
 
     <string name="curiosidadesText5">As milhões de baterias e pilhas vendidas todo ano no Brasil contém metais pesados tóxicos, que podem contaminar o solo e a água. Em contato com seres humanos, atacam o cérebro, os rins e os pulmões. Quando for descartá-las, procure um posto de coleta especial.</string>
 
+
+    <string-array name="curiosidadaArray">
+        <item>Se 1 milhão de pessoas usarem o verso do papel para escrever e desenhar, a cada mês será preservada uma área de floresta equivalente a 18 campos de futebol.</item>
+        <item>Quando você aciona a descarga para se livrar de uma bituca de cigarro, 12 litros de água tratada descem pelo ralo. Se 1 milhão de pessoas perdessem esse hábito, seriam economizados 360 milhões de litros de água. Esse volume equivale à água que cai nas cataratas do Iguaçú a cada 4 minutos.</item>
+        <item>Os médicos recomendam que você beba pelo menos 2 litros de água por dia. Uma única goteira pode desperdiçar 150 litros diários, ou seja, água suficiente para matar a sua sede por mais de 2 meses.</item>
+        <item>A grande vantagem de reciclar o vidro é que não há nenhum desperdício durante o processo. Outra vantagem é que, ao se utilizar os cacos, o tempo de fusão do material cai, reduzindo a quantidade de energia consumida em até 65 porcento. O Brasil só recicla 25 porcento do vidro que consome.</item>
+        <item>As milhões de baterias e pilhas vendidas todo ano no Brasil contém metais pesados tóxicos, que podem contaminar o solo e a água. Em contato com seres humanos, atacam o cérebro, os rins e os pulmões. Quando for descartá-las, procure um posto de coleta especial.</item>
+    </string-array>
+
 </resources>
