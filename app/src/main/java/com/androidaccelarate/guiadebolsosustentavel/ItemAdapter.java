@@ -22,6 +22,7 @@ public class ItemAdapter extends ArrayAdapter<Item> {
     public View getView(int position, @Nullable View convertView, @NonNull ViewGroup parent) {
 
         View itemView = convertView;
+
         if (itemView == null) {
             itemView = LayoutInflater.from(getContext()).inflate(R.layout.base_item, parent, false);
         }
