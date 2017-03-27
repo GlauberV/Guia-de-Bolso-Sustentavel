@@ -34,4 +34,18 @@
         <item>As milhões de baterias e pilhas vendidas todo ano no Brasil contém metais pesados tóxicos, que podem contaminar o solo e a água. Em contato com seres humanos, atacam o cérebro, os rins e os pulmões. Quando for descartá-las, procure um posto de coleta especial.</item>
     </string-array>
 
+    <string-array name="dicasSustentaveisArray">
+        <item>Na hora da compra, avalie se realmente precisa do produto: Além de economizar, irá gerar menos resíduos.</item>
+        <item>Prefira comprar em lojas com praticas socioambientais: Adquire produtos que irão retornar com práticas que contribuem para um planeta melhor; fortalece a sustentabilidade como mercado viável. </item>
+        <item>Elimine vazamentos: Evita o desperdício de água e reduz o valor da conta de água no fim do mês. </item>
+        <item>Faça a captação e o aproveitamento da água da chuva: Reduz o uso de água potável em manutenção; contribui para a redução dos custos públicos para tratamento e distribuição da água; diminui o custo da fatura com água.</item>
+        <item>Não deixe aparelhos eletroeletrônicos em standy by: Economiza em média 12% do consumo doméstico de energia elétrica.</item>
+        <item>Instale painéis fotovoltaicos : Painéis de energia solar economiza nas despesas mensais com energia elétrica.</item>
+        <item>Mantenha as fiações elétricas em bom estado: Evita fuga de energia por meio de fios danificados; evita possíveis acidentes.</item>
+        <item>Substitua lâmpadas incandescentes por lâmpadas econômicas: Economiza em média 60% no consumo; evita a emissão de possivelmente 136kg de gás carbônico por ano; diminui o número de substituições, pois a fluorescente tem maior vida útil.</item>
+        <item>Faça separação do seu lixo: Possibilita a reciclagem de materiais; evita a degradação do meio ambiente, economizando matérias-primas para fabricação de novos produtos; auxilia o fortalecimento econômico de cooperativas de reciclagem, contribuindo para melhoria de vida dos catadores; contribui para o aumento de vida útil dos aterros sanitários, evitando que produtos recicláveis sejam destinados incorretamente.</item>
+        <item>Diminua o uso de descartáveis: Economiza no custo dessas despesas; evita geração de resíduos.</item>
+
+    </string-array>
+
 </resources>
