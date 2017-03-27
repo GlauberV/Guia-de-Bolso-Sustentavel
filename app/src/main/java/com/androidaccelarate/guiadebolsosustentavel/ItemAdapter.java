@@ -29,6 +29,8 @@ public class ItemAdapter extends ArrayAdapter<Item> {
 
         Item itemPosition = getItem(position);
 
+        //Os métodos " findViewById " são redundantes mais funcionam.
+
         TextView curiosidade1 = (TextView) itemView.findViewById(R.id.base_item);
         curiosidade1.setText(itemPosition.getCuriosidade());
 
@@ -43,6 +45,7 @@ public class ItemAdapter extends ArrayAdapter<Item> {
 
         TextView curiosidade5 = (TextView) itemView.findViewById(R.id.base_item);
         curiosidade5.setText(itemPosition.getCuriosidade());
+
 
         return itemView;
     }

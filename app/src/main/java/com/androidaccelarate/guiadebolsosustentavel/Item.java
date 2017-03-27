@@ -4,6 +4,7 @@ public class Item {
 
     private String curiosidade;
 
+
     public Item(String curiosidade) {
         this.curiosidade = curiosidade;
     }

@@ -25,7 +25,7 @@
 
     <string name="curiosidadesText5">As milhões de baterias e pilhas vendidas todo ano no Brasil contém metais pesados tóxicos, que podem contaminar o solo e a água. Em contato com seres humanos, atacam o cérebro, os rins e os pulmões. Quando for descartá-las, procure um posto de coleta especial.</string>
 
-
+    <!-- Por que existe uma segunda? -->
     <string-array name="curiosidadaArray">
         <item>Se 1 milhão de pessoas usarem o verso do papel para escrever e desenhar, a cada mês será preservada uma área de floresta equivalente a 18 campos de futebol.</item>
         <item>Quando você aciona a descarga para se livrar de uma bituca de cigarro, 12 litros de água tratada descem pelo ralo. Se 1 milhão de pessoas perdessem esse hábito, seriam economizados 360 milhões de litros de água. Esse volume equivale à água que cai nas cataratas do Iguaçú a cada 4 minutos.</item>

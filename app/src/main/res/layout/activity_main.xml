@@ -32,7 +32,7 @@
             android:layout_alignParentBottom="true"
             android:layout_alignParentRight="true"
             android:text="@string/DS"
-            android:textColor="@android:color/black"
+            android:textColor="@android:color/white"
             android:textSize="15sp" />
 
     </RelativeLayout>
@@ -73,7 +73,7 @@
             android:orientation="horizontal"
             android:padding="10dp"
             android:text="@string/CS"
-            android:textColor="@android:color/black"
+            android:textColor="@android:color/white"
             android:textSize="15sp">
 
         </Button>
@@ -93,7 +93,7 @@
             android:orientation="horizontal"
             android:padding="10dp"
             android:text="@string/CR"
-            android:textColor="@android:color/black"
+            android:textColor="@android:color/white"
             android:textSize="15sp">
 
         </Button>
