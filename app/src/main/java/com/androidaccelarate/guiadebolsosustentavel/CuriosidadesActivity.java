@@ -27,5 +27,6 @@ public class CuriosidadesActivity extends AppCompatActivity {
         ListView listView = (ListView) findViewById(R.id.CR_List);
         listView.setAdapter(adapter);
 
+
     }
 }

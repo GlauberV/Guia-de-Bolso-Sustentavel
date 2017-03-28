@@ -9,7 +9,7 @@
     tools:context="com.androidaccelarate.guiadebolsosustentavel.DicasSustentaveisActivity">
 
     <TextView
-        android:id="@+id/DC_Tittle"
+        android:id="@+id/DS_Tittle"
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
         android:text="Dicas Sustentáveis"
@@ -20,8 +20,18 @@
     <ListView
         android:id="@+id/DS_List"
         android:layout_width="match_parent"
-        android:layout_height="match_parent">
+        android:layout_height="0dp"
+        android:layout_weight="3">
 
     </ListView>
+
+    <TextView
+        android:id="@+id/DS_mais10dicas"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="+10 Dicas"
+        android:textAlignment="center"
+        android:textColor="@color/textColor"
+        android:textSize="25sp" />
 
 </LinearLayout>

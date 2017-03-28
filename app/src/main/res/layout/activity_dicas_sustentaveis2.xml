@@ -1,9 +1,37 @@
 <?xml version="1.0" encoding="utf-8"?>
-<android.support.constraint.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android"
-    xmlns:app="http://schemas.android.com/apk/res-auto"
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
     xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/DS2_root"
     android:layout_width="match_parent"
     android:layout_height="match_parent"
-    tools:context="com.androidaccelarate.guiadebolsosustentavel.DicasSustentaveis2Activity">
+    android:background="@color/backGroundColor"
+    android:orientation="vertical"
+    tools:context="com.androidaccelarate.guiadebolsosustentavel.DicasSustentaveisActivity">
 
-</android.support.constraint.ConstraintLayout>
+    <TextView
+        android:id="@+id/DS2_Tittle"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="Dicas Sustentáveis"
+        android:textAlignment="center"
+        android:textColor="@color/textColor"
+        android:textSize="25sp" />
+
+    <ListView
+        android:id="@+id/DS2_List"
+        android:layout_width="match_parent"
+        android:layout_height="0dp"
+        android:layout_weight="3">
+
+    </ListView>
+
+    <TextView
+        android:id="@+id/DS_outras10dicas"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="Outras 10 Dicas"
+        android:textAlignment="center"
+        android:textColor="@color/textColor"
+        android:textSize="25sp" />
+
+</LinearLayout>
