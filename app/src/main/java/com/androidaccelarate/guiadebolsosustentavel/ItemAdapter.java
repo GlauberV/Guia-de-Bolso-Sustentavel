@@ -29,7 +29,7 @@ public class ItemAdapter extends ArrayAdapter<Item> {
 
         Item itemPosition = getItem(position);
 
-        //Os métodos " findViewById " são redundantes mais f
+        //Os métodos " findViewById " são redundantes mais, O que fazer?
 
         TextView curiosidade1 = (TextView) itemView.findViewById(R.id.base_item);
         curiosidade1.setText(itemPosition.getCuriosidade());

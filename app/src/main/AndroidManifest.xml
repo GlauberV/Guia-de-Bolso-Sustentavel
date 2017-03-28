@@ -19,7 +19,8 @@
         <activity android:name=".CuriosidadesActivity" />
         <activity android:name=".ColetaSeletivaActivity" />
         <activity android:name=".DicasSustentaveisActivity" />
-        <activity android:name=".DicasSustentaveis2Activity"></activity>
+        <activity android:name=".DicasSustentaveis2Activity" />
+        <activity android:name=".DicasSustentaveis3Activity"></activity>
     </application>
 
 </manifest>

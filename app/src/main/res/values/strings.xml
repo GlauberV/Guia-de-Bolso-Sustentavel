@@ -12,6 +12,9 @@
     <string name="DS">Dicas de Sustentabilidade</string>
     <string name="CR_mais10Curiosidades">+10 Curiosidades</string>
     <string name="CR_outras10Curiosidades">Outras 10 Curiosidades</string>
+    <string name="DS_TextView">+10 Dicas</string>
+    <string name="DS2_TextView">Outras 10 Dicas</string>
+    <string name="DS3_TextView">Voltar</string>
 
     <!-- Coleta Seletiva-->
     <string name="CS_Papel">Papel</string>
@@ -26,12 +29,15 @@
     <!-- Texto Tela Inicial Meio-->
     <string name="textoApresentacao">O dia a dia das pessoas anda muito corrido. A falta de tempo faz com que pais e filhos tenham dificuldade de ficarem juntos. Correr atrás de uma condição melhor de vida nos faz trabalhar mais e reduz o tempo de convivência. Mas quando todos se juntam para praticar ações sustentáveis, a convivência aumenta. Todos se unem para ajudar o planeta!</string>
 
-    <!-- Tela Curiosidades-->
+    <!--
+    Esta sem uso
+
     <string name="curiosidadesText1">Se 1 milhão de pessoas usarem o verso do papel para escrever e desenhar, a cada mês será preservada uma área de floresta equivalente a 18 campos de futebol.</string>
     <string name="curiosidadesText2">Quando você aciona a descarga para se livrar de uma bituca de cigarro, 12 litros de água tratada descem pelo ralo. Se 1 milhão de pessoas perdessem esse hábito, seriam economizados 360 milhões de litros de água. Esse volume equivale à água que cai nas cataratas do Iguaçú a cada 4 minutos.</string>
     <string name="curiosidadesText3">Os médicos recomendam que você beba pelo menos 2 litros de água por dia. Uma única goteira pode desperdiçar 150 litros diários, ou seja, água suficiente para matar a sua sede por mais de 2 meses.</string>
     <string name="curiosidadesText4">A grande vantagem de reciclar o vidro é que não há nenhum desperdício durante o processo. Outra vantagem é que, ao se utilizar os cacos, o tempo de fusão do material cai, reduzindo a quantidade de energia consumida em até 65 porcento. O Brasil só recicla 25 porcento do vidro que consome.</string>
     <string name="curiosidadesText5">As milhões de baterias e pilhas vendidas todo ano no Brasil contém metais pesados tóxicos, que podem contaminar o solo e a água. Em contato com seres humanos, atacam o cérebro, os rins e os pulmões. Quando for descartá-las, procure um posto de coleta especial.</string>
+    -->
 
     <!-- Por que existe uma segunda? -->
     <string-array name="curiosidadaArray">
@@ -82,5 +88,10 @@
         <item>Troque sacolas plásticas por sacolas retornáveis: Sacolas retornáveis são de extrema importância para a redução de resíduos, principalmente para minimizar a quantidade de plástico descartado na natureza. Reduza também o uso das sacolas de papel, cuja fabricação envolve o corte de árvores e muita água.</item>
         <item>Mantenha as lâmpadas ligadas apenas quando necessário: Um modo de redução do consumo de energia em iluminação, mais barato e fácil é desligar as lâmpadas sempre ao sair de um ambiente ou quando não for necessário o uso delas. Sempre que possível aproveite a iluminação natural, abrindo as persianas, janelas, etc.  Com essas atitudes estima-se a economia de 10 a 15% do consumo original.</item>
     </string-array>
+
+    <!-- Segredos-->
+    <string name="segredo">Aqui estão algumas dicas.</string>
+    <string name="segredo2">Então você quer mais dicas... ok.</string>
+    <string name="segredo3">E... infelizmente essas são as ultimas.</string>
 
 </resources>

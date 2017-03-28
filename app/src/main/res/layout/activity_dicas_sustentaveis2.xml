@@ -12,7 +12,7 @@
         android:id="@+id/DS2_Tittle"
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
-        android:text="Dicas Sustentáveis"
+        android:text="@string/DS_Tittle"
         android:textAlignment="center"
         android:textColor="@color/textColor"
         android:textSize="25sp" />
@@ -29,7 +29,7 @@
         android:id="@+id/DS_outras10dicas"
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
-        android:text="Outras 10 Dicas"
+        android:text="@string/DS2_TextView"
         android:textAlignment="center"
         android:textColor="@color/textColor"
         android:textSize="25sp" />

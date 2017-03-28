@@ -6,6 +6,7 @@ import android.support.v7.app.AppCompatActivity;
 import android.view.View;
 import android.widget.ListView;
 import android.widget.TextView;
+import android.widget.Toast;
 
 import java.util.ArrayList;
 
@@ -22,6 +23,9 @@ public class DicasSustentaveisActivity extends AppCompatActivity {
             public void onClick(View v) {
                 Intent i = new Intent(DicasSustentaveisActivity.this, DicasSustentaveis2Activity.class);
                 startActivity(i);
+                //Colocando Segredos
+                String segredo2 = getResources().getString(R.string.segredo2);
+                Toast.makeText(DicasSustentaveisActivity.this, segredo2, Toast.LENGTH_LONG).show();
             }
         });
 
