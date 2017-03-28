@@ -1,12 +1,24 @@
 <resources>
     <string name="app_name">Guia de Bolso Sustentavel</string>
 
+    <!-- Títulos -->
+    <string name="CR_Tittle">Curiosidades</string>
+    <string name="DS_Tittle">Dicas Sustentáveis</string>
+    <string name="CS_Tittle">Coleta Seletiva</string>
+
     <!-- Butões-->
     <string name="CR">Curiosidades</string>
-
     <string name="CS">Coleta Seletiva</string>
-
     <string name="DS">Dicas de Sustentabilidade</string>
+    <string name="CR_mais10Curiosidades">+10 Curiosidades</string>
+    <string name="CR_outras10Curiosidades">Outras 10 Curiosidades</string>
+
+    <!-- Coleta Seletiva-->
+    <string name="CS_Papel">Papel</string>
+    <string name="CS_Plastico">Plástico</string>
+    <string name="CS_Vidro">Vidro</string>
+    <string name="CS_Metal">Metal</string>
+    <string name="CS_Organico">Orgânico</string>
 
     <!-- Texto Tela Inicial Superior-->
     <string name="informacao">Você Sabia? 5 de junho é dia da Reciclagem.</string>
@@ -16,13 +28,9 @@
 
     <!-- Tela Curiosidades-->
     <string name="curiosidadesText1">Se 1 milhão de pessoas usarem o verso do papel para escrever e desenhar, a cada mês será preservada uma área de floresta equivalente a 18 campos de futebol.</string>
-
     <string name="curiosidadesText2">Quando você aciona a descarga para se livrar de uma bituca de cigarro, 12 litros de água tratada descem pelo ralo. Se 1 milhão de pessoas perdessem esse hábito, seriam economizados 360 milhões de litros de água. Esse volume equivale à água que cai nas cataratas do Iguaçú a cada 4 minutos.</string>
-
     <string name="curiosidadesText3">Os médicos recomendam que você beba pelo menos 2 litros de água por dia. Uma única goteira pode desperdiçar 150 litros diários, ou seja, água suficiente para matar a sua sede por mais de 2 meses.</string>
-
     <string name="curiosidadesText4">A grande vantagem de reciclar o vidro é que não há nenhum desperdício durante o processo. Outra vantagem é que, ao se utilizar os cacos, o tempo de fusão do material cai, reduzindo a quantidade de energia consumida em até 65 porcento. O Brasil só recicla 25 porcento do vidro que consome.</string>
-
     <string name="curiosidadesText5">As milhões de baterias e pilhas vendidas todo ano no Brasil contém metais pesados tóxicos, que podem contaminar o solo e a água. Em contato com seres humanos, atacam o cérebro, os rins e os pulmões. Quando for descartá-las, procure um posto de coleta especial.</string>
 
     <!-- Por que existe uma segunda? -->

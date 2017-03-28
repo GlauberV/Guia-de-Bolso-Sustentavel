@@ -12,14 +12,59 @@
         android:id="@+id/CS_Tittle"
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
-        android:text="Coleta Seletiva"
+        android:text="@string/CS_Tittle"
         android:textAlignment="center"
         android:textColor="@color/textColor"
         android:textSize="25sp" />
 
     <TextView
-        android:id="@+id/CS_Text"
-        android:layout_width="wrap_content"
-        android:layout_height="match_parent" />
+        android:layout_width="match_parent"
+        android:layout_height="0dp"
+        android:layout_weight="1"
+        android:background="@color/papel_color"
+        android:padding="20dp"
+        android:text="@string/CS_Papel"
+        android:textColor="@android:color/black"
+        android:textSize="@dimen/CS_text_size"/>
+
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="0dp"
+        android:layout_weight="1"
+        android:background="@color/plastico_color"
+        android:padding="20dp"
+        android:text="@string/CS_Plastico"
+        android:textColor="@android:color/black"
+        android:textSize="@dimen/CS_text_size" />
+
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="0dp"
+        android:layout_weight="1"
+        android:background="@color/vidro_color"
+        android:padding="20dp"
+        android:text="Vidro"
+        android:textColor="@android:color/black"
+        android:textSize="@dimen/CS_text_size" />
+
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="0dp"
+        android:layout_weight="1"
+        android:background="@color/metal_color"
+        android:padding="20dp"
+        android:text="@string/CS_Metal"
+        android:textColor="@android:color/black"
+        android:textSize="@dimen/CS_text_size" />
+
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="0dp"
+        android:layout_weight="1"
+        android:background="@color/organico_color"
+        android:padding="20dp"
+        android:text="@string/CS_Organico"
+        android:textColor="@android:color/black"
+        android:textSize="@dimen/CS_text_size" />
 
 </LinearLayout>

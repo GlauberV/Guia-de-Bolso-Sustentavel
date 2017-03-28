@@ -4,8 +4,16 @@
     <color name="colorPrimaryDark">#121212</color>
     <color name="colorAccent">#accb00</color>
 
+    <!-- Minhas Cores -->
     <color name="backGroundColor">#444444</color>
     <color name="textColor">#accb00</color>
     <color name="backgroundTextColor">#999999</color>
+
+    <!-- Coleta Seletiva Colors -->
+    <color name="papel_color">#34b7ea</color>
+    <color name="plastico_color">#bf0d3e</color>
+    <color name="vidro_color">#caff50</color>
+    <color name="metal_color">#efea4e</color>
+    <color name="organico_color">#cd6600</color>
 
 </resources>
