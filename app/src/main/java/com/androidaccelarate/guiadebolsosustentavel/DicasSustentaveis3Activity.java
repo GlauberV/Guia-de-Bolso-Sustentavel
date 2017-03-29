@@ -30,7 +30,7 @@ public class DicasSustentaveis3Activity extends AppCompatActivity {
         String[] dicasSustentaveis3 = getResources().getStringArray(R.array.dicasSustentavei3Array);
 
         ArrayList<Item> itensList = new ArrayList<>();
-        for (int i = 0; i < 10; i++){
+        for (int i = 0; i < 10; i++) {
             String text = dicasSustentaveis3[i];
 
             Item item = new Item(text);

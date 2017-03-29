@@ -29,23 +29,8 @@ public class ItemAdapter extends ArrayAdapter<Item> {
 
         Item itemPosition = getItem(position);
 
-        //Os métodos " findViewById " são redundantes mais, O que fazer?
-
-        TextView curiosidade1 = (TextView) itemView.findViewById(R.id.base_item);
+        TextView curiosidade1 = (TextView) itemView.findViewById(R.id.base_text);
         curiosidade1.setText(itemPosition.getCuriosidade());
-
-        TextView curiosidade2 = (TextView) itemView.findViewById(R.id.base_item);
-        curiosidade2.setText(itemPosition.getCuriosidade());
-
-        TextView curiosidade3 = (TextView) itemView.findViewById(R.id.base_item);
-        curiosidade3.setText(itemPosition.getCuriosidade());
-
-        TextView curiosidade4 = (TextView) itemView.findViewById(R.id.base_item);
-        curiosidade4.setText(itemPosition.getCuriosidade());
-
-        TextView curiosidade5 = (TextView) itemView.findViewById(R.id.base_item);
-        curiosidade5.setText(itemPosition.getCuriosidade());
-
 
         return itemView;
     }

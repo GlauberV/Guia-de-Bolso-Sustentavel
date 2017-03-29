@@ -25,7 +25,7 @@ public class DicasSustentaveisActivity extends AppCompatActivity {
                 startActivity(i);
                 //Colocando Segredos
                 String segredo2 = getResources().getString(R.string.segredo2);
-                Toast.makeText(DicasSustentaveisActivity.this, segredo2, Toast.LENGTH_LONG).show();
+                Toast.makeText(DicasSustentaveisActivity.this, segredo2, Toast.LENGTH_SHORT).show();
             }
         });
 

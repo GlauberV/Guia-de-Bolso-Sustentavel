@@ -1,5 +1,5 @@
 <resources>
-    <string name="app_name">Guia de Bolso Sustentavel</string>
+    <string name="app_name">Guia de Bolso Sustentável</string>
 
     <!-- Títulos -->
     <string name="CR_Tittle">Curiosidades</string>
@@ -17,29 +17,21 @@
     <string name="DS3_TextView">Voltar</string>
 
     <!-- Coleta Seletiva-->
-    <string name="CS_Papel">Papel</string>
-    <string name="CS_Plastico">Plástico</string>
-    <string name="CS_Vidro">Vidro</string>
-    <string name="CS_Metal">Metal</string>
-    <string name="CS_Organico">Orgânico</string>
+    <string name="CS_Papel">Papel \n\nPapéis de escritório, papelão, caixas em geral, jornais, revistas, livros, listas telefônicas, embalagens longa-vida.</string>
+    <string name="CS_Plastico">Plástico \n\nSacos, CD\'s, embalagens de produtos de limpeza, PET(como garrafas de refrigerante), canos e tubos.</string>
+    <string name="CS_Vidro">Vidro \n\nGarrafas de bebida, frascos em geral, potes de produtos alimentícios e copos.</string>
+    <string name="CS_Metal">Metal \n\nLatas de alumínio e de produtos alimentícios, tampas de garrafas.</string>
+    <string name="CS_Organico">Orgânico \n\nRestos de alimentos, cascas de frutas, legumes e de ovos.</string>
+    <string name="CS_NaoReciclavel">Não Reciclável \n\nPapéis não recicláveis: adesivos, etiquetas, fita crepe, papel carbono, fotografias, papel toalha, papel higiênico, papéis e guardanapos engordurados, papéis metalizados, parafinados ou plastificados.\n\nMetais não recicláveis: clipes, grampos, esponjas de aço, latas de tintas, latas de combustivél e pilhas.\n\nPlásticos não recicláveis: cabos de panela, tomadas, isopor, adesivos, espuma, teclados de computador, acrílicos.\n\nVidros não recicláveis: espelhos, cristal, ampolas de medicamentos, cerâmicas e louças, lâmpadas, vidros temperados planos.</string>
 
     <!-- Texto Tela Inicial Superior-->
-    <string name="informacao">Você Sabia? 5 de junho é dia da Reciclagem.</string>
+    <string name="informacao">Você Sabia? 5 de junho é dia do meio ambiente.</string>
+    <string name="informacaoSecreta">E dia 17 de maio é o dia mundial da reciclagem.</string>
 
     <!-- Texto Tela Inicial Meio-->
     <string name="textoApresentacao">O dia a dia das pessoas anda muito corrido. A falta de tempo faz com que pais e filhos tenham dificuldade de ficarem juntos. Correr atrás de uma condição melhor de vida nos faz trabalhar mais e reduz o tempo de convivência. Mas quando todos se juntam para praticar ações sustentáveis, a convivência aumenta. Todos se unem para ajudar o planeta!</string>
 
-    <!--
-    Esta sem uso
-
-    <string name="curiosidadesText1">Se 1 milhão de pessoas usarem o verso do papel para escrever e desenhar, a cada mês será preservada uma área de floresta equivalente a 18 campos de futebol.</string>
-    <string name="curiosidadesText2">Quando você aciona a descarga para se livrar de uma bituca de cigarro, 12 litros de água tratada descem pelo ralo. Se 1 milhão de pessoas perdessem esse hábito, seriam economizados 360 milhões de litros de água. Esse volume equivale à água que cai nas cataratas do Iguaçú a cada 4 minutos.</string>
-    <string name="curiosidadesText3">Os médicos recomendam que você beba pelo menos 2 litros de água por dia. Uma única goteira pode desperdiçar 150 litros diários, ou seja, água suficiente para matar a sua sede por mais de 2 meses.</string>
-    <string name="curiosidadesText4">A grande vantagem de reciclar o vidro é que não há nenhum desperdício durante o processo. Outra vantagem é que, ao se utilizar os cacos, o tempo de fusão do material cai, reduzindo a quantidade de energia consumida em até 65 porcento. O Brasil só recicla 25 porcento do vidro que consome.</string>
-    <string name="curiosidadesText5">As milhões de baterias e pilhas vendidas todo ano no Brasil contém metais pesados tóxicos, que podem contaminar o solo e a água. Em contato com seres humanos, atacam o cérebro, os rins e os pulmões. Quando for descartá-las, procure um posto de coleta especial.</string>
-    -->
-
-    <!-- Por que existe uma segunda? -->
+    <!-- Arrays -->
     <string-array name="curiosidadaArray">
         <item>Se 1 milhão de pessoas usarem o verso do papel para escrever e desenhar, a cada mês será preservada uma área de floresta equivalente a 18 campos de futebol.</item>
         <item>Quando você aciona a descarga para se livrar de uma bituca de cigarro, 12 litros de água tratada descem pelo ralo. Se 1 milhão de pessoas perdessem esse hábito, seriam economizados 360 milhões de litros de água. Esse volume equivale à água que cai nas cataratas do Iguaçú a cada 4 minutos.</item>
@@ -74,7 +66,6 @@
         <item>Instale torneiras de baixo consumo de água: Torneiras de baixo consumo de água ou com fechamento automático já se tornaram comuns no mercado. </item>
         <item>Use a internet e o telefone para reduzir o consumo de CO²: A tecnologia como a internet e o telefone são aliados das empresas para a redução de custos e de emissão de CO² (carbono). A internet é ótima ferramenta de comunicação para capacitar ou reunir funcionários sem necessidade de gastos com deslocamentos (avião, hospedagem e diárias). Cursos de educação à distância, teleconferências, videoconferências ou reuniões remotas por telefone podem ser feitas via internet.</item>
     </string-array>
-
 
     <string-array name="dicasSustentavei3Array">
         <item>Prefira equipamentos com o Selo Procel: O selo Procel de Economia de Energia é a principal referência para consumidores e empresários, na hora da comprar equipamentos e eletrodomésticos. Ele aponta os níveis de eficiência energética, de acordo com cada categoria, garantindo economia na sua conta de energia. O objetivo do programa é incentivar a fabricação e comercialização de produtos mais eficazes, visando o desenvolvimento tecnológico nacional e a preservação do meio ambiente.</item>

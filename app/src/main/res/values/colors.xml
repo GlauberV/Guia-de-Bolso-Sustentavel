@@ -15,5 +15,6 @@
     <color name="vidro_color">#caff50</color>
     <color name="metal_color">#efea4e</color>
     <color name="organico_color">#cd6600</color>
+    <color name="nao_reciclavel_color">#9fa0a2</color>
 
 </resources>
