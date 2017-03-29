@@ -8,15 +8,6 @@
     android:orientation="vertical"
     tools:context="com.androidaccelarate.guiadebolsosustentavel.DicasSustentaveisActivity">
 
-    <TextView
-        android:id="@+id/DS_Tittle"
-        android:layout_width="match_parent"
-        android:layout_height="wrap_content"
-        android:text="@string/DS_Tittle"
-        android:textAlignment="center"
-        android:textColor="@color/textColor"
-        android:textSize="25sp" />
-
     <ListView
         android:id="@+id/DS_List"
         android:layout_width="match_parent"

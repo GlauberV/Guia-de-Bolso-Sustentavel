@@ -8,16 +8,6 @@
     android:orientation="vertical"
     tools:context="com.androidaccelarate.guiadebolsosustentavel.CuriosidadesActivity">
 
-    <TextView
-        android:id="@+id/CR_Tittle"
-        android:layout_width="match_parent"
-        android:layout_height="wrap_content"
-        android:text="@string/CR_Tittle"
-        android:textAlignment="center"
-        android:textColor="@color/textColor"
-        android:textSize="25sp" />
-
-
     <ListView
         android:id="@+id/CR_List"
         android:layout_width="match_parent"

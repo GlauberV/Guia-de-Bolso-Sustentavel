@@ -15,7 +15,6 @@ public class MainActivity extends AppCompatActivity {
         super.onCreate(savedInstanceState);
         setContentView(R.layout.activity_main);
 
-
         //Botão: Dicas de Sustentabilidade
         Button mainHighButton = (Button) findViewById(R.id.main_high_button);
         mainHighButton.setOnClickListener(new View.OnClickListener() {
